@@ -309,5 +309,3 @@ print(f"总消息数: {len(A\_messages) + len(B\_messages)}")
 * 项目主页：[https://github.com/mOUse-Ok/cryptoLab1\_compare\_secretly](https://github.com/mOUse-Ok/cryptoLab1_compare_secretly)
 
 * 邮箱：2312114@mail.nankai.edu.cn
-
-> （注：文档部分内容可能由 AI 生成）
