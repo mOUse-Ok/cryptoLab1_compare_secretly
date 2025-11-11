@@ -154,5 +154,5 @@ print(f"B发送的消息数: {len(B_messages)}")
 ## 联系方式
 
 如有问题或建议，请通过以下方式联系：
-- 项目主页：https://github.com/yourusername/secret_comparison_16bit
+- 项目主页：https://github.com/mOUse-Ok/cryptoLab1_compare_secretly
 - 邮箱：your.email@example.com
