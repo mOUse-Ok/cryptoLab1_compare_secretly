@@ -4,6 +4,8 @@
 
 本项目实现了一个基于Goldwasser-Micali(GM)概率加密体制的16位秘密比较协议。该协议允许两个参与者A和B在不泄露各自持有的16位非负整数（0-65535）具体值的情况下，由B确定A的数是否小于B的数。
 
+注意：为了方便验证协议正确与否，本项目在实现时选用python语言且未使用GMP库，有关大素数生成等操作会严重影响实际部署时的协议安全性，本项目仅作南开大学密码科学与技术专业2025现代密码学课程实验作业提交及展示所用。
+
 ## 技术原理
 
 ### Goldwasser-Micali密码体制
@@ -155,4 +157,4 @@ print(f"B发送的消息数: {len(B_messages)}")
 
 如有问题或建议，请通过以下方式联系：
 - 项目主页：https://github.com/mOUse-Ok/cryptoLab1_compare_secretly
-- 邮箱：2312114@mail.nankai.edu.cn 
+- 邮箱：2312114@mail.nankai.edu.cn
