@@ -1,0 +1,2 @@
+# cryptoLab1_compare_secretly
+实现了一个由两方参与的（基于Goldwasser-Micali密码体制的）秘密比较协议
